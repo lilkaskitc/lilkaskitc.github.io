@@ -12,7 +12,7 @@ I am a statistician at LMU.
 
 Interests
 ======
+* Neural Architecture Search
 * Multi-Objective Optimization
 * Bayesian Optimization
 * Conformal Prediction
-* High-dimensional Statistics
