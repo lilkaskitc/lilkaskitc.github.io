@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Model Compression for LLMs"
+excerpt: "LMU seminar report on Advances in Automated Machine Learning (with a focus on foundation models)"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This is my LMU seminar report studying the Minitron model, and extended research on the techniques involved: pruning, NAS and distillation. [Link](https://drive.google.com/file/d/1HCNyU0FagWUz7yeOKm0mJR4EL4Tv8PNU/view?usp=drive_link)
