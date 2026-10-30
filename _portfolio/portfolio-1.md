@@ -1,6 +1,6 @@
 ---
 title: "Model Compression for LLMs"
-excerpt: "LMU seminar report on Advances in Automated Machine Learning (with a focus on foundation models)"
+excerpt: "LMU seminar report on Advances in Automated Machine Learning (with a focus on foundation models)<br/><img src='/images/x2.4.png'>"
 collection: portfolio
 ---
 
