@@ -1,6 +1,6 @@
 ---
 title: "Robust Decision-Making via Credal Reinforcement Learning"
-excerpt: "LMU master's thesis"
+excerpt: "LMU master's thesis<br/><img src='/images/Screenshot 2026-10-30 193409.jpg'>"
 collection: portfolio
 ---
 
